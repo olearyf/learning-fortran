@@ -1,3 +1,4 @@
+    PROGRAM PLOT
 ****************************************************************************
 * Frances O'Leary, using Fortran 77 for Engineers and Scientists 8/16/2020 *
 * Program to plot a graph of a function Y = F(X). Variables used are:      *
